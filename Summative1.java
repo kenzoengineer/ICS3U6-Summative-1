@@ -5,10 +5,8 @@ public class Summative1 {
         //initialize scanner and variables
         Scanner sc = new Scanner(System.in);
         Random rand = new Random();
-        String again;
-        String answer;
-        int random;
-        int score;
+        String again, answer;
+        int random, score;
         do {
             score = 0;
             again = "";
@@ -33,10 +31,18 @@ public class Summative1 {
                 + "games, and databases.\n They mainly design and plan, however they may also do the coding. Companies "
                 + "require a bachelors, however, many get a masters, causing most to earn more than $100K.",
                 "This person designs applications for use on portable platforms such as phones. They use their skills to "
-                + "create games, utilities and transport existing computer applications.\n They can use IDEs such as Xcode and use languages such as",
-                "This person assists others with their issues related to computers. In a business, they may update computers, help workers or upkeep servers.",
-                "This person works in large companies setting up and keep databases full of user information. They perform maintenance and upgrade them as needed.",
-                "This person works with artists and designers to program games for the public. They will code for lots of technology such as VR, consoles, and many other platforms."};
+                + "create games, utilities and transport existing computer applications.\n They can use IDEs such as Xcode"
+                + "and use languages such as java ME. The median salary for this career is $80K, usually requiring a bachelors",
+                "This person assists others with their issues related to computers. In a business, they may update computers,"
+                + "help workers or upkeep servers. It is also possible for these people to work from home, and answer calls"
+                + "remotely. They earn upwards of $60K a year and require a bachelors degree or higher.",
+                "This person works in large companies setting up and keep databases full of user information. They"
+                + "perform maintenance and upgrade them as needed. Many companies require large databases due to the amount"
+                + "of data in the internet, so they are in high demand. They ear $75K and most companies require a bachelors degree.",
+                "This person works with artists and designers to program games for the public. They will code for lots of"
+                + "technology such as VR, consoles, and many other platforms. While many earn more than $90K a year, there"
+                + "are also a large amount of freelancers, working for themselves"
+            };
             //create an array with the possible choices
             String[] options = {
                 "a. Security Analyst\nb. Network Administrator\nc. IT Support\nd. Hardware Engineer",
