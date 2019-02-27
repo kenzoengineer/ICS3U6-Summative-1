@@ -19,26 +19,26 @@ public class Summative1 {
                 + "and back-end of sites.\nThey use languages like CSS, Javascript and HTML, and don't require formal "
                 + "education, however, most companies prefer at least college education. They earn around $60K.",
                 "This person designs the physical components of computers. They also perform tests and manage manufacturing "
-                + "on their parts.\n From designing PCBs, soldering components and putting together CPUs, companies look " 
+                + "on their parts.\nFrom designing PCBs, soldering components and putting together CPUs, companies look " 
                 + "for those with a bachelors, paying a median salary of $100K.",
                 "This person allows computers to connect with one another, upkeeping servers and helping solve techical "
                 + "issues.\n They have an understanding of network weaknesses, maintain disk images and more. They earn "
                 + "$80K and require a bachelors degree.",
                 "This person passes on knowledge of computers and related fields to younger people willing to learn. "
-                + "The most important job in the world.\n They are passionate about the field of computer science and "
+                + "This is the most important job in the world.\nThey are passionate about the field of computer science and "
                 + "require going to secondary education after university. They earn from $50K to $100K.",
                 "This person creates and tests computer programs. Their work is used in many areas, like business, video "
-                + "games, and databases.\n They mainly design and plan, however they may also do the coding. Companies "
+                + "games, and databases.\nThey mainly design and plan, however they may also do the coding. Companies "
                 + "require a bachelors, however, many get a masters, causing most to earn more than $100K.",
                 "This person designs applications for use on portable platforms such as phones. They use their skills to "
-                + "create games, utilities and transport existing computer applications.\n They can use IDEs such as Xcode"
+                + "create games, utilities and transport existing computer applications.\nThey can use IDEs such as Xcode"
                 + "and use languages such as java ME. The median salary for this career is $80K, usually requiring a bachelors",
                 "This person assists others with their issues related to computers. In a business, they may update computers,"
-                + "help workers or upkeep servers. It is also possible for these people to work from home, and answer calls"
+                + " help workers or upkeep servers. It is also possible for these people to work from home, and answer calls"
                 + "remotely. They earn upwards of $60K a year and require a bachelors degree or higher.",
                 "This person works in large companies setting up and keep databases full of user information. They"
-                + "perform maintenance and upgrade them as needed. Many companies require large databases due to the amount"
-                + "of data in the internet, so they are in high demand. They ear $75K and most companies require a bachelors degree.",
+                + " perform maintenance and upgrade them as needed. Many companies require large databases due to the amount"
+                + "of data in the internet, so they are in high demand. They earn $75K and most companies require a bachelors degree.",
                 "This person works with artists and designers to program games for the public. They will code for lots of"
                 + "technology such as VR, consoles, and many other platforms. While many earn more than $90K a year, there"
                 + "are also a large amount of freelancers, working for themselves"
